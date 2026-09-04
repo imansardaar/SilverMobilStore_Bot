@@ -1,4 +1,2 @@
-echo "python-dotenv==1.0.1" >> requirements.txt
-git add requirements.txt
-git commit -m "add python-dotenv to requirements"
-git push origin main
+pyTelegramBotAPI==4.16.0
+python-dotenv==1.0.1
