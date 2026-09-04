@@ -1,1 +1,1 @@
-@SilverMobilStore_Bot
+SilverMobilStore_Bot
